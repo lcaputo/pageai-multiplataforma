@@ -5,6 +5,7 @@
   "main": "app.js",
   "scripts": {
     "vercel-build": "node app",
+    "start": "node ./app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
